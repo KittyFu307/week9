@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restaurant Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Places_API">APIKEY</string>
+</resources>
